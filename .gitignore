@@ -6,3 +6,9 @@
 /build
 /captures
 .externalNativeBuild
+/gradle/wrapper/
+/fragmenttestrule/build/
+/sample/build/
+/fragmenttestrule/src/main/gen/
+/sample/src/main/gen/
+/sample/src/debug/gen/
