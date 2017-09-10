@@ -5,4 +5,6 @@ package com.a21buttons.fragmenttestrule.sample.photo;
  */
 
 public interface IPhotoReader {
+
+    void readPhoto();
 }
